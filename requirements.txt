@@ -1,0 +1,14 @@
+accelerate
+datasets
+evaluate
+matplotlib
+numpy
+peft
+pillow
+pytest
+rouge_score
+scikit-learn
+torch
+torchvision
+tqdm
+transformers

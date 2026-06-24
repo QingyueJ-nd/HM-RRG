@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Local environments and caches
+.venv/
+venv/
+env/
+.env
+*.env
+/.cache/
+/cache/
+/wandb/
+/runs/
+/logs/
+
+# Data and generated artifacts
+/data/
+/datasets/
+/outputs/
+/results/
+/result*/
+/checkpoints/
+/ckpts/
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.tar
+*.tar.gz
+*.zip
+*.jsonl.gz
+
+# MIMIC-CXR / PhysioNet local files must not be committed
+/annotation_single_view.json
+mimic-cxr-*.csv
+mimic-cxr-*.csv.gz
+/mimic_cxr_jpg_*/
+/mimic_cxr_jpg_*.tar.gz
+/train.json
+/val.json
+/test.json
+
+# Generated metrics/predictions
+refs*.json
+result*.json
+test_refs*.json
+num_retrieved*.json
+metrics*.jsonl

@@ -1,0 +1,8 @@
+HM-RRG includes code adapted from HMT: Hierarchical Memory Transformer.
+
+Upstream HMT repository:
+https://github.com/OswaldHe/HMT-pytorch
+
+The HMT-derived components are retained under the Apache License 2.0.
+This repository also contains HM-RRG-specific adaptations for radiology
+report generation with MIMIC-CXR-JPG and Longitudinal-MIMIC style inputs.
