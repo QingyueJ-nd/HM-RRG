@@ -1,4 +1,4 @@
-# HM-RRG: Hierarchical Memory for Radiology Report Generation
+# HM-RRG: Hierarchical Memory for Radiology Report Generation (MICCAI 2026)
 
 This repository contains the code for **HM-RRG: Hierarchical Memory for Radiology Report Generation**.
 
