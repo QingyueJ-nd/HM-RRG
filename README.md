@@ -1,4 +1,4 @@
-# HM-RRG
+# HM-RRG: Hierarchical Memory for Radiology Report Generation
 
 This repository contains the code for **HM-RRG: Hierarchical Memory for Radiology Report Generation**.
 
